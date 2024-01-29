@@ -682,7 +682,7 @@ Git=
              ;;
           esac
         done
-        Install
+        Install_
 }
 
 function Install_JS_Plugin(){
